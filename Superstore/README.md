@@ -20,7 +20,7 @@ The purpose was to prepare an analysis for the CEO of Superstore to help them un
 
 ## 📝 Description
 
-- Tableau Visualizations, 1 Dashboard, and a 10-page Story Presentation
+- Tableau Visualizations, 1 Dashboard
 - Includes data analysis, charts, dashboard, and Tableau story
 Tableau Public Share Link can be found (https://public.tableau.com/app/profile/arnol.saavedra/viz/TTSprint5/2_3ReturnRatebyCustomer)
 
