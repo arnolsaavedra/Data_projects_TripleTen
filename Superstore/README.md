@@ -28,12 +28,12 @@ Tableau Public Share Link can be found (https://public.tableau.com/app/profile/a
 
 ## ⚙️ Process
 
- -Left Joined 'returns' table to 'orders' table.
- -Created a Calculated Field - IF formula for a Return Rate Measurement.
- -Examined the in-depth contribution of returns for various dimensions using visualizations to determine what is causing returns.
- -Built a dashboard for monitoring returns.
- -Created a Tableau story to present my findings.
- -Created a video presentation for Asynchronous Stakeholders.
+ - Left Joined 'returns' table to 'orders' table.
+ - Created a Calculated Field - IF formula for a Return Rate Measurement.
+ - Examined the in-depth contribution of returns for various dimensions using visualizations to determine what is causing returns.
+ - Built a dashboard for monitoring returns.
+ - Created a Tableau story to present my findings.
+ - Created a video presentation for Asynchronous Stakeholders.
 
 ---
 
@@ -41,9 +41,9 @@ Tableau Public Share Link can be found (https://public.tableau.com/app/profile/a
 
 - The data was one Excel spreadsheet file provided by TripleTen:
 
--'Superstore.xls': Each row corresponds to one product sold
--'orders': details all fields for each ordered item
--'returns': details all fields for each returned item 
+- 'Superstore.xls': Each row corresponds to one product sold
+- 'orders': details all fields for each ordered item
+- 'returns': details all fields for each returned item 
 
 ---
 
@@ -51,12 +51,12 @@ Tableau Public Share Link can be found (https://public.tableau.com/app/profile/a
 
 - Provide additional training for our tech team so they can better guide customers toward choosing the right products.
 
--Personally reach out to customers who returned all of their orders to understand what went wrong. If needed, make improvements to the website or review how our shipping partners are handling deliveries.
+- Personally reach out to customers who returned all of their orders to understand what went wrong. If needed, make improvements to the website or review how our shipping partners are handling deliveries.
 
--As a short-term fix, temporarily pause the sale of products with the highest return rates.
+- As a short-term fix, temporarily pause the sale of products with the highest return rates.
 
--Internally, prioritize updating product details—especially sizing guides—and encourage customer reviews through social media partnerships or influencer content.
+- Internally, prioritize updating product details—especially sizing guides—and encourage customer reviews through social media partnerships or influencer content.
 
--For regions with particularly high return rates, we could explore options like stricter return policies or a small return fee to offset costs.
+- For regions with particularly high return rates, we could explore options like stricter return policies or a small return fee to offset costs.
 
--Rethink our promotions—focus on things like free shipping or gift cards during holidays, rather than just offering discounts.
+- Rethink our promotions—focus on things like free shipping or gift cards during holidays, rather than just offering discounts.
