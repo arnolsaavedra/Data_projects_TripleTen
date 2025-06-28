@@ -45,11 +45,8 @@ This project focused on **customer segmentation analysis** using a fictional dat
 
 TripleTen provided a `.zip` archive containing **five Excel files** for the fictional Zomato company. Two of these were the primary sources for analysis:
 
-- `orders.xlsx`: All orders placed by customers across restaurants from Oct 2017 – Jun 2020  
+- `orders.xlsx`: All orders placed by customers across restaurants 
 - `users.xlsx`: Demographics of customers who placed those orders  
-
----
-
 
 ---
 
