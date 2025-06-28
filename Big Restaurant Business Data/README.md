@@ -1,5 +1,4 @@
-# Re-crear el archivo README.md ya que el entorno se reinició
-readme_content = """# 📊 Zomato Customer Analysis
+# 📊 Zomato Customer Analysis
 
 This project was my **final capstone** for the **TripleTen Business Intelligence & Analytics Program**. It was a **self-directed project** designed to showcase the skills acquired throughout the course.
 
