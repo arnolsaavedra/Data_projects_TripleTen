@@ -57,15 +57,15 @@ TripleTen provided a `.zip` archive containing **five Excel files** for the fict
 
 Practical Recommendations:
 Based on the findings, here are some suggested actions:
-● Use more detailed segmentation to tailor offers and campaigns based on education
+- Use more detailed segmentation to tailor offers and campaigns based on education
 level, marital status, and gender.
-● Run marketing campaigns aimed at young adults with small families and high education
+- Run marketing campaigns aimed at young adults with small families and high education
 levels.
-● Focus on highly educated women as a potentially loyal customer segment.
-● Continuously monitor demographic trends to spot shifts in customer profiles over time.
-● Incentives should be created for individual orders, as these are the customers who
+- Focus on highly educated women as a potentially loyal customer segment.
+- Continuously monitor demographic trends to spot shifts in customer profiles over time.
+- Incentives should be created for individual orders, as these are the customers who
 spend the most.
-● Focus should be placed on filtering by customer age, as the analysis shows that people
+- Focus should be placed on filtering by customer age, as the analysis shows that people
 aged 21, 26, and 33 are the highest consumers. On average, 33-year-olds with a family
 group of 5 are the strongest in terms of spending.
 
